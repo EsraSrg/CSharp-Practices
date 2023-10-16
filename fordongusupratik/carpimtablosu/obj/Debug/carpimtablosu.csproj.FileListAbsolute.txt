@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\carpimtablosu\bin\Debug\carpimtablosu.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\carpimtablosu\bin\Debug\carpimtablosu.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\carpimtablosu\bin\Debug\carpimtablosu.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\carpimtablosu\obj\Debug\carpimtablosu.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\carpimtablosu\obj\Debug\carpimtablosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\carpimtablosu\obj\Debug\carpimtablosu.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\carpimtablosu\obj\Debug\carpimtablosu.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\carpimtablosu\obj\Debug\carpimtablosu.pdb

@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\bkihesaplama\obj\Debug\bkihesaplama.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\bkihesaplama\obj\Debug\bkihesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\bkihesaplama\obj\Debug\bkihesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\bkihesaplama\bin\Debug\bkihesaplama.exe.config
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\bkihesaplama\bin\Debug\bkihesaplama.exe
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\bkihesaplama\bin\Debug\bkihesaplama.pdb
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\bkihesaplama\obj\Debug\bkihesaplama.exe
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\bkihesaplama\obj\Debug\bkihesaplama.pdb

@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\vs c#\longveritipi\floatveritipi\bin\Debug\floatveritipi.exe.config
+C:\Users\Esra\Desktop\vs c#\longveritipi\floatveritipi\bin\Debug\floatveritipi.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\floatveritipi\bin\Debug\floatveritipi.pdb
+C:\Users\Esra\Desktop\vs c#\longveritipi\floatveritipi\obj\Debug\floatveritipi.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\floatveritipi\obj\Debug\floatveritipi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\floatveritipi\obj\Debug\floatveritipi.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\floatveritipi\obj\Debug\floatveritipi.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\floatveritipi\obj\Debug\floatveritipi.pdb

@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\KararyapilariIfElse\obj\Debug\KararyapilariIfElse.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\KararyapilariIfElse\obj\Debug\KararyapilariIfElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\KararyapilariIfElse\obj\Debug\KararyapilariIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\KararyapilariIfElse\bin\Debug\KararyapilariIfElse.exe.config
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\KararyapilariIfElse\bin\Debug\KararyapilariIfElse.exe
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\KararyapilariIfElse\bin\Debug\KararyapilariIfElse.pdb
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\KararyapilariIfElse\obj\Debug\KararyapilariIfElse.exe
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\KararyapilariIfElse\obj\Debug\KararyapilariIfElse.pdb

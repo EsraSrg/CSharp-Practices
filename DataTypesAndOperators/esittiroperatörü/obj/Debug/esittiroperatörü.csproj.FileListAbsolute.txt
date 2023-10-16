@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\vs c#\longveritipi\esittiroperatörü\bin\Debug\esittiroperatörü.exe.config
+C:\Users\Esra\Desktop\vs c#\longveritipi\esittiroperatörü\bin\Debug\esittiroperatörü.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\esittiroperatörü\bin\Debug\esittiroperatörü.pdb
+C:\Users\Esra\Desktop\vs c#\longveritipi\esittiroperatörü\obj\Debug\esittiroperatörü.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\esittiroperatörü\obj\Debug\esittiroperatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\esittiroperatörü\obj\Debug\esittiroperatörü.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\esittiroperatörü\obj\Debug\esittiroperatörü.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\esittiroperatörü\obj\Debug\esittiroperatörü.pdb

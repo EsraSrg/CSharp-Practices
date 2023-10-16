@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\vs c#\longveritipi\degiloperatörü\bin\Debug\degiloperatörü.exe.config
+C:\Users\Esra\Desktop\vs c#\longveritipi\degiloperatörü\bin\Debug\degiloperatörü.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\degiloperatörü\bin\Debug\degiloperatörü.pdb
+C:\Users\Esra\Desktop\vs c#\longveritipi\degiloperatörü\obj\Debug\degiloperatörü.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\degiloperatörü\obj\Debug\degiloperatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\degiloperatörü\obj\Debug\degiloperatörü.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\degiloperatörü\obj\Debug\degiloperatörü.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\degiloperatörü\obj\Debug\degiloperatörü.pdb

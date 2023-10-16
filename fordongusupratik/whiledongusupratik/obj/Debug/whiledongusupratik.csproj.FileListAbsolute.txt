@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\whiledongusupratik\obj\Debug\whiledongusupratik.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\whiledongusupratik\obj\Debug\whiledongusupratik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\whiledongusupratik\obj\Debug\whiledongusupratik.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\whiledongusupratik\bin\Debug\whiledongusupratik.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\whiledongusupratik\bin\Debug\whiledongusupratik.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\whiledongusupratik\bin\Debug\whiledongusupratik.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\whiledongusupratik\obj\Debug\whiledongusupratik.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\whiledongusupratik\obj\Debug\whiledongusupratik.pdb

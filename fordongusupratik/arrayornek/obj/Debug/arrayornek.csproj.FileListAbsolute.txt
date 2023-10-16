@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\arrayornek\bin\Debug\arrayornek.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\arrayornek\bin\Debug\arrayornek.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\arrayornek\bin\Debug\arrayornek.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\arrayornek\obj\Debug\arrayornek.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\arrayornek\obj\Debug\arrayornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\arrayornek\obj\Debug\arrayornek.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\arrayornek\obj\Debug\arrayornek.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\arrayornek\obj\Debug\arrayornek.pdb

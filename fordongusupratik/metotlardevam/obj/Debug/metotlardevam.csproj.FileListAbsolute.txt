@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotlardevam\bin\Debug\metotlardevam.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotlardevam\bin\Debug\metotlardevam.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotlardevam\bin\Debug\metotlardevam.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotlardevam\obj\Debug\metotlardevam.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotlardevam\obj\Debug\metotlardevam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotlardevam\obj\Debug\metotlardevam.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotlardevam\obj\Debug\metotlardevam.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotlardevam\obj\Debug\metotlardevam.pdb

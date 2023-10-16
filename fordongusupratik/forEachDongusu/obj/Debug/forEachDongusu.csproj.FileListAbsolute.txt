@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\forEachDongusu\bin\Debug\forEachDongusu.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\forEachDongusu\bin\Debug\forEachDongusu.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\forEachDongusu\bin\Debug\forEachDongusu.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\forEachDongusu\obj\Debug\forEachDongusu.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\forEachDongusu\obj\Debug\forEachDongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\forEachDongusu\obj\Debug\forEachDongusu.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\forEachDongusu\obj\Debug\forEachDongusu.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\forEachDongusu\obj\Debug\forEachDongusu.pdb

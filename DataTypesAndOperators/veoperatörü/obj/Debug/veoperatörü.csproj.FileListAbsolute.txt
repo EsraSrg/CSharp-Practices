@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\vs c#\longveritipi\veoperatörü\bin\Debug\veoperatörü.exe.config
+C:\Users\Esra\Desktop\vs c#\longveritipi\veoperatörü\bin\Debug\veoperatörü.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\veoperatörü\bin\Debug\veoperatörü.pdb
+C:\Users\Esra\Desktop\vs c#\longveritipi\veoperatörü\obj\Debug\veoperatörü.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\veoperatörü\obj\Debug\veoperatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\veoperatörü\obj\Debug\veoperatörü.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\veoperatörü\obj\Debug\veoperatörü.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\veoperatörü\obj\Debug\veoperatörü.pdb

@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\miniATM\obj\Debug\miniATM.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\miniATM\obj\Debug\miniATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\miniATM\obj\Debug\miniATM.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\miniATM\bin\Debug\miniATM.exe.config
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\miniATM\bin\Debug\miniATM.exe
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\miniATM\bin\Debug\miniATM.pdb
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\miniATM\obj\Debug\miniATM.exe
+C:\Users\Esra\Desktop\C#\KullanicidanDegerAlma\miniATM\obj\Debug\miniATM.pdb

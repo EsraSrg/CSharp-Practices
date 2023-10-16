@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\switchcaseyapisi\switchcaseyapisi\obj\Debug\switchcaseyapisi.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\switchcaseyapisi\switchcaseyapisi\obj\Debug\switchcaseyapisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\switchcaseyapisi\switchcaseyapisi\obj\Debug\switchcaseyapisi.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\switchcaseyapisi\switchcaseyapisi\bin\Debug\switchcaseyapisi.exe.config
+C:\Users\Esra\Desktop\C#\switchcaseyapisi\switchcaseyapisi\bin\Debug\switchcaseyapisi.exe
+C:\Users\Esra\Desktop\C#\switchcaseyapisi\switchcaseyapisi\bin\Debug\switchcaseyapisi.pdb
+C:\Users\Esra\Desktop\C#\switchcaseyapisi\switchcaseyapisi\obj\Debug\switchcaseyapisi.exe
+C:\Users\Esra\Desktop\C#\switchcaseyapisi\switchcaseyapisi\obj\Debug\switchcaseyapisi.pdb

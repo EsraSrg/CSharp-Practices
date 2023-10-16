@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\geriyedegerdondurenmetot\obj\Debug\geriyedegerdondurenmetot.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\geriyedegerdondurenmetot\obj\Debug\geriyedegerdondurenmetot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\geriyedegerdondurenmetot\obj\Debug\geriyedegerdondurenmetot.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\geriyedegerdondurenmetot\bin\Debug\geriyedegerdondurenmetot.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\geriyedegerdondurenmetot\bin\Debug\geriyedegerdondurenmetot.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\geriyedegerdondurenmetot\bin\Debug\geriyedegerdondurenmetot.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\geriyedegerdondurenmetot\obj\Debug\geriyedegerdondurenmetot.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\geriyedegerdondurenmetot\obj\Debug\geriyedegerdondurenmetot.pdb

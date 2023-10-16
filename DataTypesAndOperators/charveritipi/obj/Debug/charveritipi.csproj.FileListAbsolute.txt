@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\vs c#\longveritipi\charveritipi\bin\Debug\charveritipi.exe.config
+C:\Users\Esra\Desktop\vs c#\longveritipi\charveritipi\bin\Debug\charveritipi.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\charveritipi\bin\Debug\charveritipi.pdb
+C:\Users\Esra\Desktop\vs c#\longveritipi\charveritipi\obj\Debug\charveritipi.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\charveritipi\obj\Debug\charveritipi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\charveritipi\obj\Debug\charveritipi.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\vs c#\longveritipi\charveritipi\obj\Debug\charveritipi.exe
+C:\Users\Esra\Desktop\vs c#\longveritipi\charveritipi\obj\Debug\charveritipi.pdb

@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotornek\bin\Debug\metotornek.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotornek\bin\Debug\metotornek.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotornek\bin\Debug\metotornek.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotornek\obj\Debug\metotornek.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotornek\obj\Debug\metotornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotornek\obj\Debug\metotornek.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotornek\obj\Debug\metotornek.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\metotornek\obj\Debug\metotornek.pdb

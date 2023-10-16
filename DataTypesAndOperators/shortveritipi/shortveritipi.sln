@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shortveritipi", "shortveritipi\shortveritipi.csproj", "{46020C65-1DB7-483B-A294-3F953A2ECA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46020C65-1DB7-483B-A294-3F953A2ECA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46020C65-1DB7-483B-A294-3F953A2ECA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46020C65-1DB7-483B-A294-3F953A2ECA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46020C65-1DB7-483B-A294-3F953A2ECA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C51F295D-0602-4022-979D-89DDFC4CFEAC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusuornek\bin\Debug\fordongusuornek.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusuornek\bin\Debug\fordongusuornek.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusuornek\bin\Debug\fordongusuornek.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusuornek\obj\Debug\fordongusuornek.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusuornek\obj\Debug\fordongusuornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusuornek\obj\Debug\fordongusuornek.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusuornek\obj\Debug\fordongusuornek.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusuornek\obj\Debug\fordongusuornek.pdb

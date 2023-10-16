@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\arraypratik\bin\Debug\arraypratik.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\arraypratik\bin\Debug\arraypratik.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\arraypratik\bin\Debug\arraypratik.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\arraypratik\obj\Debug\arraypratik.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\arraypratik\obj\Debug\arraypratik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\arraypratik\obj\Debug\arraypratik.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\arraypratik\obj\Debug\arraypratik.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\arraypratik\obj\Debug\arraypratik.pdb

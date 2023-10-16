@@ -1,0 +1,8 @@
+C:\Users\Esra\Desktop\C#\fordongusupratik\loginuygulamasi\bin\Debug\loginuygulamasi.exe.config
+C:\Users\Esra\Desktop\C#\fordongusupratik\loginuygulamasi\bin\Debug\loginuygulamasi.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\loginuygulamasi\bin\Debug\loginuygulamasi.pdb
+C:\Users\Esra\Desktop\C#\fordongusupratik\loginuygulamasi\obj\Debug\loginuygulamasi.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\loginuygulamasi\obj\Debug\loginuygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\loginuygulamasi\obj\Debug\loginuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\C#\fordongusupratik\loginuygulamasi\obj\Debug\loginuygulamasi.exe
+C:\Users\Esra\Desktop\C#\fordongusupratik\loginuygulamasi\obj\Debug\loginuygulamasi.pdb
