@@ -102,6 +102,7 @@
 
 #endregion
 
+#region örnek
 /* Random rnd=new Random();
  int intRandom=rnd.Next(1,10);
 
@@ -109,27 +110,91 @@
 
  System.Console.WriteLine( "{0} sayısı tektir:{1}",intRandom,sonuc);
 */
+#endregion
 
+#region örnek
 
+  /*
+     char küçükHarf = 'a';
 
-
-  
-        char küçükHarf = 'a';
-
-        // charı inte çevirdim
-        int intDegisken = Convert.ToInt32(küçükHarf);
-
-        
-        int farkİslemi = intDegisken - 32;
+         // charı inte çevirdim
+      int intDegisken = Convert.ToInt32(küçükHarf);
 
         
-        char büyükHarf = Convert.ToChar(farkİslemi);
-
-        //stringe dönüşüm
-        string sonuçString = Convert.ToString(büyükHarf);
+         int farkİslemi = intDegisken - 32;
 
         
+         char büyükHarf = Convert.ToChar(farkİslemi);
+
+         //stringe dönüşüm
+         string sonuçString = Convert.ToString(büyükHarf);
+
         
-        Console.WriteLine("Büyük harf: " + büyükHarf);
-        Console.WriteLine("{0}-32={1} ",intDegisken, farkİslemi);
         
+         Console.WriteLine("Büyük harf: " + büyükHarf);
+         Console.WriteLine("{0}-32={1} ",intDegisken, farkİslemi);
+        */
+        #endregion
+#region Random ve char örnek
+ //iki tane Randomla üretilmiş karakter yazdıralım.       
+
+//  Random rnd=new Random();
+
+//  int intRandom=rnd.Next(65,91);
+//  char charDegisken1=Convert.ToChar(intRandom);
+
+ 
+//  int  randomSayi=rnd.Next(65,91);
+//  char charDegisken2=Convert.ToChar(randomSayi);
+
+//  System.Console.WriteLine(  "{0}{1}",charDegisken1,charDegisken2);
+
+ //  Random rnd=new Random();
+//  Console.Write(Convert.ToChar(rnd.Next('a','z')));
+//  Console.Write(Convert.ToChar(rnd.Next('a','z')));
+#endregion
+
+
+
+
+
+
+
+#region Cast Tip Dönüşümü
+// 2'ye ayrılır.implicit(bilinçsiz) ve explicit(bilinçsiz).
+//küçük tip büyük tipe dönüşürken c# otomatik yapar.taşıyabileceği için.
+//ımplicit örnek
+
+
+
+//explicit örnek
+/*
+int intDegisken=10;
+byte byteDegisken=(byte)intDegisken; //10 degerindeki inti byte zaten taşır.
+*/
+// int intDegisken=400;
+// byte byteDegisken=(byte)intDegisken;
+// System.Console.WriteLine( byteDegisken); 
+//400 mod alabileceği değer(255) sonucunu veriyor.sızma.
+
+
+// Convert: önceden tanımlı 15 tipi birbirine çevirir.
+//Cast: hem 15 tipi hem de kendi yazacağımız tipleri dönüştürür.
+
+
+//int char dönüşümü.dönüştüreceğimiz tipi yazıyoruz paranteze.
+int intDegisken=98;
+char charDegisken= (char)intDegisken;
+System.Console.WriteLine( charDegisken);
+
+
+//CAST yöntemiyle bool inte dönüşmez.Convertle dönüşür.
+//CAST YÖNTEMİYLE string tipi herhanhi bir tipe dönüştürülemez.
+
+
+
+
+#endregion
+
+
+

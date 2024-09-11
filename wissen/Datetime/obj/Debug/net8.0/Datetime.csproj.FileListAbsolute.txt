@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\bin\Debug\net8.0\Datetime.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\bin\Debug\net8.0\Datetime.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\bin\Debug\net8.0\Datetime.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\bin\Debug\net8.0\Datetime.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\bin\Debug\net8.0\Datetime.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\Datetime.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\Datetime.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\Datetime.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\Datetime.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\Datetime.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\Datetime.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\refint\Datetime.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\Datetime.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\Datetime.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Datetime\obj\Debug\net8.0\ref\Datetime.dll
