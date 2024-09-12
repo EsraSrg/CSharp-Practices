@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\bin\Debug\net8.0\KararYapilari.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\bin\Debug\net8.0\KararYapilari.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\bin\Debug\net8.0\KararYapilari.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\bin\Debug\net8.0\KararYapilari.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\bin\Debug\net8.0\KararYapilari.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\KararYapilari.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\KararYapilari.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\KararYapilari.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\KararYapilari.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\KararYapilari.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\KararYapilari.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\refint\KararYapilari.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\KararYapilari.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\KararYapilari.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\KararYapilari\obj\Debug\net8.0\ref\KararYapilari.dll
