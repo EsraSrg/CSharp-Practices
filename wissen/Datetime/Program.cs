@@ -50,19 +50,22 @@ DateTime now =DateTime.Now;
 
 #region ÖRNEK version 2              
 
-Console.WriteLine("Doğum tarihinizi girin...(örnek: gün.ay.yıl 23.04.2002)");
-string birthDateString=Console.ReadLine();
+// Console.WriteLine("Doğum tarihinizi girin...(örnek: gün.ay.yıl 23.04.2002)");
+// string birthDateString=Console.ReadLine();
 
-int day=Convert.ToInt32(birthDateString.Substring(0,2));
-int month=Convert.ToInt32(birthDateString.Substring(3,2));
-int year=Convert.ToInt32(birthDateString.Substring(6,4));
+// int day=Convert.ToInt32(birthDateString.Substring(0,2));
+// int month=Convert.ToInt32(birthDateString.Substring(3,2));
+// int year=Convert.ToInt32(birthDateString.Substring(6,4));
 
-DateTime birthDate= new DateTime(year,month,day);
+// DateTime birthDate= new DateTime(year,month,day);
 
-TimeSpan fark= DateTime.Now-birthDate;
-System.Console.WriteLine("{0} yıldır dünyadasınız..",fark.TotalDays/365);
+// TimeSpan fark= DateTime.Now-birthDate;
+// System.Console.WriteLine("{0} yıldır dünyadasınız..",fark.TotalDays/365);
 
 #endregion
 
+//türkiyede çalışan iki programın entegrasyonu
+//iki farklı ülkede çalışan entegrasyon
 
-    
+System.Console.WriteLine((DateTime.UtcNow.ToString())); //evrensel saat. UTC tüm ülkelerde geçerli saat farkı olmaksızın aynı degeri alabilmek için kullanılır.
+
