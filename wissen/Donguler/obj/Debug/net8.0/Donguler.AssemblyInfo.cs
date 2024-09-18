@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("KararYapilari")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Donguler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc1eebc262d8e1c2645181a1a6f09c31e528c85d")]
-[assembly: System.Reflection.AssemblyProductAttribute("KararYapilari")]
-[assembly: System.Reflection.AssemblyTitleAttribute("KararYapilari")]
+[assembly: System.Reflection.AssemblyProductAttribute("Donguler")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Donguler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

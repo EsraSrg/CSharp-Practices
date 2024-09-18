@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\KararYapilari\\KararYapilari.csproj": {}
+    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler\\Donguler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\KararYapilari\\KararYapilari.csproj": {
+    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler\\Donguler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\KararYapilari\\KararYapilari.csproj",
-        "projectName": "KararYapilari",
-        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\KararYapilari\\KararYapilari.csproj",
+        "projectUniqueName": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler\\Donguler.csproj",
+        "projectName": "Donguler",
+        "projectPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler\\Donguler.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\KararYapilari\\obj\\",
+        "outputPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",
