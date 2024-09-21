@@ -35,27 +35,61 @@
 
 */
 
-using System.Globalization;
+// using System.Globalization;
 
-Console.WriteLine("Bir değer giriniz");
-int deger =int.Parse(Console.ReadLine());
+// Console.WriteLine("Bir değer giriniz");
+// int deger =int.Parse(Console.ReadLine());
 
-for (int i = 0;i<deger;i++){
+// for (int i = 0;i<deger;i++){
 
-    // satırları oluşturur
+//     // satırları oluşturur
 
-    // 
-    for(int j=0;j<deger-i;j++){
+//     // 
+//     for(int j=0;j<deger-i;j++){
 
-        // Boşlukları basalım
+//         // Boşlukları basalım
+//         Console.Write(" ");
+//     }
+
+//     for(int k=0;k<=2*i;k++){
+//         Console.Write("*");
+//     }
+//     Console.WriteLine();
+
+// }
+// bu örneği iyice bir inceleyip, bu örnek ile ilgili bazı değişiklikler yaparak derse geliniz.
+
+
+
+
+Console.WriteLine("Bir değer giriniz:");
+int deger = int.Parse(Console.ReadLine());
+
+for (int i = 0; i < deger; i++)
+{
+    // Boşlukları yazdır
+    for (int j = 0; j < deger - i - 1; j++)
+    {
         Console.Write(" ");
     }
 
-    for(int k=0;k<=2*i;k++){
+    // Sol kenar
+    Console.Write("/");
+
+    // Yıldızları yazdır
+    for (int k = 0; k < 2 * i; k++)
+    {
         Console.Write("*");
     }
-    Console.WriteLine();
 
+    // Sağ kenar
+    Console.WriteLine("\\");
 }
-// bu örneği iyice bir inceleyip, bu örnek ile ilgili bazı değişiklikler yaparak derse geliniz.
 
+// Alt kısmı çizgi ile kapat
+Console.Write(" ");
+for (int l = 0; l < 2 * deger - 1; l++)
+{
+    Console.Write("-");
+}
+Console.WriteLine();
