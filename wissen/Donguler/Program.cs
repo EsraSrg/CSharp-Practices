@@ -213,7 +213,7 @@ System.Console.WriteLine("Notların ortalaması: " + toplam/10);
 
 #region kelimenin tersini yazdırma!! (substring ve döngü)
 
-
+//arse
 System.Console.WriteLine("metin giriniz");
 
 string metin=Console.ReadLine();
@@ -228,3 +228,8 @@ ters+=metin.Substring(i-1,1);
 System.Console.WriteLine(ters);
 
 #endregion
+
+
+
+
+

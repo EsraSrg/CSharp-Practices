@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\Pratik.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\Pratik.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\Pratik.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\Pratik.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\Pratik.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\bin\Debug\net8.0\Pratik.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\bin\Debug\net8.0\Pratik.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\bin\Debug\net8.0\Pratik.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\bin\Debug\net8.0\Pratik.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\bin\Debug\net8.0\Pratik.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\Pratik.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\refint\Pratik.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\Pratik.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\Pratik.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Pratik\obj\Debug\net8.0\ref\Pratik.dll
