@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\bin\Debug\net8.0\Diziler(Array).exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\bin\Debug\net8.0\Diziler(Array).deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\bin\Debug\net8.0\Diziler(Array).runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\bin\Debug\net8.0\Diziler(Array).dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\bin\Debug\net8.0\Diziler(Array).pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\Diziler(Array).GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\Diziler(Array).AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\Diziler(Array).AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\Diziler(Array).csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\Diziler(Array).sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\Diziler(Array).dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\refint\Diziler(Array).dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\Diziler(Array).pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\Diziler(Array).genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Diziler(Array)\obj\Debug\net8.0\ref\Diziler(Array).dll
