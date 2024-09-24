@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Donguler-while/1.0.0": {
+        "runtime": {
+          "Donguler-while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Donguler-while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

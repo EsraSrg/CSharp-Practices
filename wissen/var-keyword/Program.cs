@@ -58,9 +58,9 @@ Console.WriteLine(birinciSayi+ikinciSayi);
 */
 
   Console.Write("Kaç elemanlı Fibonacci dizisi:");
-        int sayi = Convert.ToInt32(Console.ReadLine());
+        var sayi = int.Parse(Console.ReadLine());
 
-        var a = 0;
+        var a =0;
         var b=1;
         int deger;
 
@@ -75,3 +75,6 @@ Console.WriteLine(birinciSayi+ikinciSayi);
            b=deger;
 
         }
+
+        //Gelece Not  :  var keyword'ünün çıkışı : c# anonim tipler yazılabilir, anonim tiplerin bir tipi olmadığı için bu tipler var tipi ile karşınabilir
+//Gelece Not : Karmaşık veri tabanı zorgularından gelen verileri elimizdeki bilinen tiplere maplemek zor olduğu durumda var yazılımcının işini kolaylaştırır

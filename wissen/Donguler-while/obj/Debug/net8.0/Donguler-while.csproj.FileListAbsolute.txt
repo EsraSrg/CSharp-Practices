@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\bin\Debug\net8.0\Donguler-while.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\bin\Debug\net8.0\Donguler-while.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\bin\Debug\net8.0\Donguler-while.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\bin\Debug\net8.0\Donguler-while.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\bin\Debug\net8.0\Donguler-while.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\Donguler-while.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\Donguler-while.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\Donguler-while.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\Donguler-while.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\Donguler-while.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\Donguler-while.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\refint\Donguler-while.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\Donguler-while.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\Donguler-while.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-while\obj\Debug\net8.0\ref\Donguler-while.dll
