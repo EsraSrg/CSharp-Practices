@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\dowhiledongusupratik\obj\Debug\dowhiledongusupratik.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\dowhiledongusupratik\obj\Debug\dowhiledongusupratik.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\dowhiledongusupratik\obj\Debug\dowhiledongusupratik.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\dowhiledongusupratik\bin\Debug\dowhiledongusupratik.exe.config
-C:\Users\Esra\Desktop\C#\fordongusupratik\dowhiledongusupratik\bin\Debug\dowhiledongusupratik.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\dowhiledongusupratik\bin\Debug\dowhiledongusupratik.pdb
-C:\Users\Esra\Desktop\C#\fordongusupratik\dowhiledongusupratik\obj\Debug\dowhiledongusupratik.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\dowhiledongusupratik\obj\Debug\dowhiledongusupratik.pdb

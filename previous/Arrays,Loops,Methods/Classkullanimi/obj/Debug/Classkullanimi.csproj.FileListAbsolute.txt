@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\Classkullanimi\bin\Debug\Classkullanimi.exe.config
-C:\Users\Esra\Desktop\C#\fordongusupratik\Classkullanimi\bin\Debug\Classkullanimi.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\Classkullanimi\bin\Debug\Classkullanimi.pdb
-C:\Users\Esra\Desktop\C#\fordongusupratik\Classkullanimi\obj\Debug\Classkullanimi.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\Classkullanimi\obj\Debug\Classkullanimi.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\Classkullanimi\obj\Debug\Classkullanimi.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\Classkullanimi\obj\Debug\Classkullanimi.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\Classkullanimi\obj\Debug\Classkullanimi.pdb

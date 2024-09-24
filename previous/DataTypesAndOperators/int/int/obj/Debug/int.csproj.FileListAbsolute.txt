@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\vs c#\int\int\bin\Debug\@int.exe.config
-C:\Users\Esra\Desktop\vs c#\int\int\bin\Debug\@int.exe
-C:\Users\Esra\Desktop\vs c#\int\int\bin\Debug\@int.pdb
-C:\Users\Esra\Desktop\vs c#\int\int\obj\Debug\int.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\vs c#\int\int\obj\Debug\int.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\vs c#\int\int\obj\Debug\int.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\vs c#\int\int\obj\Debug\@int.exe
-C:\Users\Esra\Desktop\vs c#\int\int\obj\Debug\@int.pdb

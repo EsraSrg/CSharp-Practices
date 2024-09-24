@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\vs c#\longveritipi\Ekoperatörler\obj\Debug\Ekoperatörler.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\vs c#\longveritipi\Ekoperatörler\obj\Debug\Ekoperatörler.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\vs c#\longveritipi\Ekoperatörler\obj\Debug\Ekoperatörler.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\vs c#\longveritipi\Ekoperatörler\bin\Debug\Ekoperatörler.exe.config
-C:\Users\Esra\Desktop\vs c#\longveritipi\Ekoperatörler\bin\Debug\Ekoperatörler.exe
-C:\Users\Esra\Desktop\vs c#\longveritipi\Ekoperatörler\bin\Debug\Ekoperatörler.pdb
-C:\Users\Esra\Desktop\vs c#\longveritipi\Ekoperatörler\obj\Debug\Ekoperatörler.exe
-C:\Users\Esra\Desktop\vs c#\longveritipi\Ekoperatörler\obj\Debug\Ekoperatörler.pdb

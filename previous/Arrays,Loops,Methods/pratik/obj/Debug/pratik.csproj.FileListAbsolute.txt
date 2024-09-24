@@ -1,3 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\pratik\obj\Debug\pratik.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\pratik\obj\Debug\pratik.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\pratik\obj\Debug\pratik.csproj.CoreCompileInputs.cache

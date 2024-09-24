@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlarornek\bin\Debug\metotlarornek.exe.config
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlarornek\bin\Debug\metotlarornek.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlarornek\bin\Debug\metotlarornek.pdb
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlarornek\obj\Debug\metotlarornek.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlarornek\obj\Debug\metotlarornek.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlarornek\obj\Debug\metotlarornek.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlarornek\obj\Debug\metotlarornek.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlarornek\obj\Debug\metotlarornek.pdb

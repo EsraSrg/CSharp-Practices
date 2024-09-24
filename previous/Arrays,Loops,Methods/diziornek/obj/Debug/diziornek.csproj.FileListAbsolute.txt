@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\diziornek\obj\Debug\diziornek.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\diziornek\obj\Debug\diziornek.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\diziornek\obj\Debug\diziornek.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\diziornek\bin\Debug\diziornek.exe.config
-C:\Users\Esra\Desktop\C#\fordongusupratik\diziornek\bin\Debug\diziornek.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\diziornek\bin\Debug\diziornek.pdb
-C:\Users\Esra\Desktop\C#\fordongusupratik\diziornek\obj\Debug\diziornek.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\diziornek\obj\Debug\diziornek.pdb

@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\vs c#\longveritipi\stringveritipi\obj\Debug\stringveritipi.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\vs c#\longveritipi\stringveritipi\obj\Debug\stringveritipi.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\vs c#\longveritipi\stringveritipi\obj\Debug\stringveritipi.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\vs c#\longveritipi\stringveritipi\bin\Debug\stringveritipi.exe.config
-C:\Users\Esra\Desktop\vs c#\longveritipi\stringveritipi\bin\Debug\stringveritipi.exe
-C:\Users\Esra\Desktop\vs c#\longveritipi\stringveritipi\bin\Debug\stringveritipi.pdb
-C:\Users\Esra\Desktop\vs c#\longveritipi\stringveritipi\obj\Debug\stringveritipi.exe
-C:\Users\Esra\Desktop\vs c#\longveritipi\stringveritipi\obj\Debug\stringveritipi.pdb

@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusupratik\bin\Debug\fordongusupratik.exe.config
-C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusupratik\bin\Debug\fordongusupratik.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusupratik\bin\Debug\fordongusupratik.pdb
-C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusupratik\obj\Debug\fordongusupratik.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusupratik\obj\Debug\fordongusupratik.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusupratik\obj\Debug\fordongusupratik.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusupratik\obj\Debug\fordongusupratik.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\fordongusupratik\obj\Debug\fordongusupratik.pdb

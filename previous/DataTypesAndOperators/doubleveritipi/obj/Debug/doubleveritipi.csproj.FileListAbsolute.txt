@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\vs c#\longveritipi\doubleveritipi\bin\Debug\doubleveritipi.exe.config
-C:\Users\Esra\Desktop\vs c#\longveritipi\doubleveritipi\bin\Debug\doubleveritipi.exe
-C:\Users\Esra\Desktop\vs c#\longveritipi\doubleveritipi\bin\Debug\doubleveritipi.pdb
-C:\Users\Esra\Desktop\vs c#\longveritipi\doubleveritipi\obj\Debug\doubleveritipi.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\vs c#\longveritipi\doubleveritipi\obj\Debug\doubleveritipi.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\vs c#\longveritipi\doubleveritipi\obj\Debug\doubleveritipi.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\vs c#\longveritipi\doubleveritipi\obj\Debug\doubleveritipi.exe
-C:\Users\Esra\Desktop\vs c#\longveritipi\doubleveritipi\obj\Debug\doubleveritipi.pdb

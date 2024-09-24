@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\icicefordongusu\bin\Debug\icicefordongusu.exe.config
-C:\Users\Esra\Desktop\C#\fordongusupratik\icicefordongusu\bin\Debug\icicefordongusu.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\icicefordongusu\bin\Debug\icicefordongusu.pdb
-C:\Users\Esra\Desktop\C#\fordongusupratik\icicefordongusu\obj\Debug\icicefordongusu.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\icicefordongusu\obj\Debug\icicefordongusu.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\icicefordongusu\obj\Debug\icicefordongusu.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\icicefordongusu\obj\Debug\icicefordongusu.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\icicefordongusu\obj\Debug\icicefordongusu.pdb

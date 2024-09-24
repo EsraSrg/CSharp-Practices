@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\arraygiris\bin\Debug\arraygiris.exe.config
-C:\Users\Esra\Desktop\C#\fordongusupratik\arraygiris\bin\Debug\arraygiris.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\arraygiris\bin\Debug\arraygiris.pdb
-C:\Users\Esra\Desktop\C#\fordongusupratik\arraygiris\obj\Debug\arraygiris.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\arraygiris\obj\Debug\arraygiris.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\arraygiris\obj\Debug\arraygiris.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\arraygiris\obj\Debug\arraygiris.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\arraygiris\obj\Debug\arraygiris.pdb

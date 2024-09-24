@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlaragiris\bin\Debug\metotlaragiris.exe.config
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlaragiris\bin\Debug\metotlaragiris.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlaragiris\bin\Debug\metotlaragiris.pdb
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlaragiris\obj\Debug\metotlaragiris.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlaragiris\obj\Debug\metotlaragiris.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlaragiris\obj\Debug\metotlaragiris.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlaragiris\obj\Debug\metotlaragiris.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\metotlaragiris\obj\Debug\metotlaragiris.pdb

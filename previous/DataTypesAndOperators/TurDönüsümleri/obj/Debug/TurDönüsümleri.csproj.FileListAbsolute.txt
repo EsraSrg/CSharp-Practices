@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\TurDönüsümleri\bin\Debug\TurDönüsümleri.exe.config
-C:\Users\Esra\Desktop\C#\TurDönüsümleri\bin\Debug\TurDönüsümleri.exe
-C:\Users\Esra\Desktop\C#\TurDönüsümleri\bin\Debug\TurDönüsümleri.pdb
-C:\Users\Esra\Desktop\C#\TurDönüsümleri\obj\Debug\TurDönüsümleri.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\TurDönüsümleri\obj\Debug\TurDönüsümleri.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\TurDönüsümleri\obj\Debug\TurDönüsümleri.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\TurDönüsümleri\obj\Debug\TurDönüsümleri.exe
-C:\Users\Esra\Desktop\C#\TurDönüsümleri\obj\Debug\TurDönüsümleri.pdb

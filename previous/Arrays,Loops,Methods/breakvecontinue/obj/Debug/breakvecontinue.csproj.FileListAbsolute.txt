@@ -1,8 +1,0 @@
-C:\Users\Esra\Desktop\C#\fordongusupratik\breakvecontinue\bin\Debug\breakvecontinue.exe.config
-C:\Users\Esra\Desktop\C#\fordongusupratik\breakvecontinue\bin\Debug\breakvecontinue.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\breakvecontinue\bin\Debug\breakvecontinue.pdb
-C:\Users\Esra\Desktop\C#\fordongusupratik\breakvecontinue\obj\Debug\breakvecontinue.csproj.AssemblyReference.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\breakvecontinue\obj\Debug\breakvecontinue.csproj.SuggestedBindingRedirects.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\breakvecontinue\obj\Debug\breakvecontinue.csproj.CoreCompileInputs.cache
-C:\Users\Esra\Desktop\C#\fordongusupratik\breakvecontinue\obj\Debug\breakvecontinue.exe
-C:\Users\Esra\Desktop\C#\fordongusupratik\breakvecontinue\obj\Debug\breakvecontinue.pdb
