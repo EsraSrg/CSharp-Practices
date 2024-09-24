@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Pratik\\Pratik.csproj": {}
+    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Pratik\\Pratik.csproj": {
+    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Pratik\\Pratik.csproj",
-        "projectName": "Pratik",
-        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Pratik\\Pratik.csproj",
+        "projectUniqueName": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj",
+        "projectName": "break_ve_continue",
+        "projectPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Pratik\\obj\\",
+        "outputPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",

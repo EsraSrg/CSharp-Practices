@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\bin\Debug\net8.0\Donguler-do-while.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\bin\Debug\net8.0\Donguler-do-while.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\bin\Debug\net8.0\Donguler-do-while.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\bin\Debug\net8.0\Donguler-do-while.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\bin\Debug\net8.0\Donguler-do-while.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\Donguler-do-while.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\Donguler-do-while.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\Donguler-do-while.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\Donguler-do-while.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\Donguler-do-while.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\Donguler-do-while.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\refint\Donguler-do-while.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\Donguler-do-while.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\Donguler-do-while.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-do-while\obj\Debug\net8.0\ref\Donguler-do-while.dll

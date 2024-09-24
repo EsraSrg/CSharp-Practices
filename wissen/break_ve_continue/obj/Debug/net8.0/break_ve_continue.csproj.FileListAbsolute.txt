@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\bin\Debug\net8.0\break_ve_continue.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\bin\Debug\net8.0\break_ve_continue.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\bin\Debug\net8.0\break_ve_continue.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\bin\Debug\net8.0\break_ve_continue.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\bin\Debug\net8.0\break_ve_continue.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\break_ve_continue.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\break_ve_continue.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\break_ve_continue.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\break_ve_continue.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\break_ve_continue.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\break_ve_continue.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\refint\break_ve_continue.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\break_ve_continue.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\break_ve_continue.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\break_ve_continue\obj\Debug\net8.0\ref\break_ve_continue.dll
