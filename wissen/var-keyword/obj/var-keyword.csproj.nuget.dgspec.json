@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\Donguler-do-while.csproj": {}
+    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\var-keyword\\var-keyword.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\Donguler-do-while.csproj": {
+    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\var-keyword\\var-keyword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\Donguler-do-while.csproj",
-        "projectName": "Donguler-do-while",
-        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\Donguler-do-while.csproj",
+        "projectUniqueName": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\var-keyword\\var-keyword.csproj",
+        "projectName": "var-keyword",
+        "projectPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\var-keyword\\var-keyword.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\obj\\",
+        "outputPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\var-keyword\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",

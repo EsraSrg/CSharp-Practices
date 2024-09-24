@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\Donguler-do-while.csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\boxing-unboxing\\boxing-unboxing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\Donguler-do-while.csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\boxing-unboxing\\boxing-unboxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\Donguler-do-while.csproj",
-        "projectName": "Donguler-do-while",
-        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\Donguler-do-while.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\boxing-unboxing\\boxing-unboxing.csproj",
+        "projectName": "boxing-unboxing",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\boxing-unboxing\\boxing-unboxing.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Donguler-do-while\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\boxing-unboxing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",

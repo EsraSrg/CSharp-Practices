@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("break_ve_continue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ac1a23339c069a6e4a2c84d4010e4316e1c7fd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6fe86f43e37e9b0ef69b7e680579fb5294929d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("break_ve_continue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("break_ve_continue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

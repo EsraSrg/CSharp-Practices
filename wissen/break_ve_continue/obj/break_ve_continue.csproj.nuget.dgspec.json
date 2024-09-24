@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj",
         "projectName": "break_ve_continue",
-        "projectPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\break_ve_continue.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\break_ve_continue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\bin\Debug\net8.0\var-keyword.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\bin\Debug\net8.0\var-keyword.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\bin\Debug\net8.0\var-keyword.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\bin\Debug\net8.0\var-keyword.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\bin\Debug\net8.0\var-keyword.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\var-keyword.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\var-keyword.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\var-keyword.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\var-keyword.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\var-keyword.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\var-keyword.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\refint\var-keyword.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\var-keyword.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\var-keyword.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\var-keyword\obj\Debug\net8.0\ref\var-keyword.dll

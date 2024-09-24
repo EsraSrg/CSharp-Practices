@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Donguler-do-while")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("boxing-unboxing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6fe86f43e37e9b0ef69b7e680579fb5294929d6")]
-[assembly: System.Reflection.AssemblyProductAttribute("Donguler-do-while")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Donguler-do-while")]
+[assembly: System.Reflection.AssemblyProductAttribute("boxing-unboxing")]
+[assembly: System.Reflection.AssemblyTitleAttribute("boxing-unboxing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
