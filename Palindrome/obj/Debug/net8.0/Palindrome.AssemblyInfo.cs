@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Diziler(Array)")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Palindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a647f0c157ac28a0225535e54f7aa7de0c0303a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Diziler(Array)")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Diziler(Array)")]
+[assembly: System.Reflection.AssemblyProductAttribute("Palindrome")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Palindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

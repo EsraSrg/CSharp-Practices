@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\Palindrome.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\Palindrome.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\bin\Debug\net8.0\Palindrome.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\bin\Debug\net8.0\Palindrome.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\bin\Debug\net8.0\Palindrome.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\bin\Debug\net8.0\Palindrome.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\bin\Debug\net8.0\Palindrome.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\Palindrome.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\Palindrome.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll
