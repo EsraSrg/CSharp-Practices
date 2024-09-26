@@ -102,31 +102,122 @@ for(int i=0;i<dizi.Length;i++){
 
 
 
-int [] uDizi= new int[6];
+// int[] random = new int[6];
+// int[] kullanici = new int[6];
 
-int [] rDizi=new int[6];
+// Random rnd = new Random();
+// for(int i = 0; i < random.Length;i++){
 
-Random rnd=new Random();
+//     // hem kullanıcıdan alalım, hemde random dolduralım
+
+//     Console.WriteLine("{0}. sayı tahminini giriniz",i+1);
+//     kullanici[i]=int.Parse(Console.ReadLine());
+
+//     // random sayıyı üretip diziye basalım
+//     random[i]=rnd.Next(1,49);
+// }
+// // iki diziyi kartezyen karşılaştırıp doğru sayı var yok kontrolü yapalım
+// for(int i = 0;i<random.Length;i++){
+
+//     for(int j=0;j<random.Length;j++){
+
+//         if(random[i]==kullanici[j]){
+
+//             Console.WriteLine("Doğru tahmin edilen sayı : {0}",random[i]);
+
+//         }
+//     }
+// }
 
 
-for(int i=0; i<uDizi.Length;i++){
+// 
 
-      System.Console.WriteLine("{0}. sayıyı girin.",i+1);
-      uDizi[i] =int.Parse(Console.ReadLine());
+// Örnek 
+// 6 tane sayı belirleyip, 30 yıl boyunca aynı sayıya oynamak
+// altı sayı belirleyip, devamlı farklı random sayılar çekip, bu sayılar ile karşılaştırın
+// her bir for bir haftayı belirlesin Datetime kullanabilirsiniz
+// bakım bakalım, kaç hafta aynı sayılara oynayıp, 5 sayı biliyorsunuz
 
-      rDizi[i]=rnd.Next(1,49);
+// haftayı for döngüsü olarak alınız
+// bir hafta 15 tl olarak, hesaplayın, 5 bulduğunuz haftayı ve ne kadar para ödediğinizi 
+// ekrana yazdırınız
+// Datetime kullanarak her hafta yı dateyime olarak atayın, 5 tutturma zamanı hangi yılda olacak 
+// ve kaç para harcamış olacaksınız bunu ekrana yansıtın
 
+// 
+
+// datetime konusu 
+// for döngüsünde bir hafta bir hafta artırarak devem etmek
+
+/*
+DateTime now=DateTime.Now;
+
+for(int i=0;i<100;i++){
+
+    
+    Console.WriteLine(DateTime.Now.AddDays(7).ToString());
+
+    System.Threading.Thread.Sleep(1000); //çıktıları 1000 milisaniye bekleyerek veriyor. Derleyiciyi istediğimiz kadar bekletebiliriz.
 }
-// iki diziyi kartezyen karşılaştırıp doğru sayı var mı yok mu kontrol edelim..
+    
+*/
 
-for(int i=0;i<rDizi.Length;i++){
 
-    for(int j=0; j<uDizi.Length;j++){
-        if( rDizi[i]==uDizi[j]){
-            j++;
-            System.Console.WriteLine("{0} adet dogru bildiniz..",j);
-        }
-    }
+// not: forr yazıp tab e basarsan ters döngüsü geliyor
+
+/*
+
+int [] dizi=new int[10];
+int [] newDizi=new int[10];
+
+for(int i=0;i<dizi.Length;i++){
+    Console.WriteLine("{0}. elemanı girin",i+1);
+    dizi[i]=int.Parse(Console.ReadLine());
+}
+
+for (int i = 0; i < dizi.Length; i++)
+{
+    newDizi[i] = dizi[dizi.Length - 1 - i];
 }
 
 
+for (int i = 0; i < newDizi.Length; i++)
+{
+    Console.Write("{0}-",newDizi[i]);
+}
+
+*/
+
+//DİZİLERLE İLGİLİ HAZIR FONKSİYONLARA ARRAY SINIFI ÜZERİNDEN ERİŞEBİLİRSİNİZ.
+
+
+int[] ints=new int[100];
+ints[89]=10;
+// değerin hangi indexte oldugunu söyler
+
+// ? nullable degerler...
+
+int hangiIndex=Array.IndexOf(ints,10);    
+System.Console.WriteLine(hangiIndex);  
+
+// aynı deger birden fazla indexte varsa, ilk bulundugu indexi yazar..yoksa -1
+
+
+
+// indexof aksine, aranan degerin en son bulundugu indexi yazar
+//Array.LastIndexOf();
+
+int [] reverseArray= new int[5];
+reverseArray[0]=1;
+reverseArray[2]=2;
+reverseArray[3]=34;
+reverseArray[4]=0;
+
+Array.Reverse(reverseArray);
+for(int i=0;i<reverseArray.Length;i++){
+
+    System.Console.WriteLine(reverseArray[i] );
+}
+
+
+// ödev:bubble sorting ile 20 elemanlı diziyi sırala..

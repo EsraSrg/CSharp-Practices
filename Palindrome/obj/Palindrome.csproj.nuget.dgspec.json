@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj",
         "projectName": "Palindrome",
-        "projectPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",
