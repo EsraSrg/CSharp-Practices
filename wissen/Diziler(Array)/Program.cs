@@ -207,7 +207,7 @@ System.Console.WriteLine(hangiIndex);
 // indexof aksine, aranan degerin en son bulundugu indexi yazar
 //Array.LastIndexOf();
 
-/*
+
 int[] reverseArray = new int[5];
 reverseArray[0]=7;
 reverseArray[1]=80;
@@ -220,7 +220,20 @@ Array.Reverse(reverseArray);
 for(int i=0;i<reverseArray.Length;i++){
    Console.WriteLine(reverseArray[i]);
 }
-*/
+
 // ödev:bubble sorting ile 20 elemanlı diziyi sırala..
 
 
+// Array.Clear diziyi temizlemek için kullanılır(Dizi içerisindeki tüm elemanlar siliniz);
+//Array.Clear(reverseArray);
+
+// Array.Copy
+// bir dizinin kopyasını oluşturmak için Array.Copy fonksiyonu kullanılabilir
+
+
+int[] destinationArray = new int[5];
+Array.Copy(reverseArray,destinationArray,reverseArray.Length);
+for(int i=0; i<reverseArray.Length;i++){
+    Console.WriteLine(destinationArray[i]);
+
+}
