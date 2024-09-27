@@ -207,17 +207,20 @@ System.Console.WriteLine(hangiIndex);
 // indexof aksine, aranan degerin en son bulundugu indexi yazar
 //Array.LastIndexOf();
 
-int [] reverseArray= new int[5];
-reverseArray[0]=1;
-reverseArray[2]=2;
-reverseArray[3]=34;
-reverseArray[4]=0;
+/*
+int[] reverseArray = new int[5];
+reverseArray[0]=7;
+reverseArray[1]=80;
+reverseArray[2]=6;  
+reverseArray[3]=2;
 
+//  yukarıdaki diziyi Array.Reverse ile ters çevirelim 
+//  ters çevirmemizi istediği diziyi aldı ve ters çevirdi.
 Array.Reverse(reverseArray);
 for(int i=0;i<reverseArray.Length;i++){
-
-    System.Console.WriteLine(reverseArray[i] );
+   Console.WriteLine(reverseArray[i]);
 }
-
-
+*/
 // ödev:bubble sorting ile 20 elemanlı diziyi sırala..
+
+
