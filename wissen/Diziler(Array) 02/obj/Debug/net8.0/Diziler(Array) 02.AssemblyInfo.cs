@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Diziler(Array)")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Diziler(Array) 02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9be7453a43d5dc611cafc5f3149cc3d69a825955")]
-[assembly: System.Reflection.AssemblyProductAttribute("Diziler(Array)")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Diziler(Array)")]
+[assembly: System.Reflection.AssemblyProductAttribute("Diziler(Array) 02")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Diziler(Array) 02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

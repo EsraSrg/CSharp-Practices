@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array)\\Diziler(Array).csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array) 02\\Diziler(Array) 02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array)\\Diziler(Array).csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array) 02\\Diziler(Array) 02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array)\\Diziler(Array).csproj",
-        "projectName": "Diziler(Array)",
-        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array)\\Diziler(Array).csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array) 02\\Diziler(Array) 02.csproj",
+        "projectName": "Diziler(Array) 02",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array) 02\\Diziler(Array) 02.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array)\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Diziler(Array) 02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",
