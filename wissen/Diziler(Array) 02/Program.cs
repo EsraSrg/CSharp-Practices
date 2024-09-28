@@ -79,3 +79,5 @@ for(int i = 0;i<sayi;i++){
 
 // Diziler ve koleksiyonlar.
 // Diziler ile koleksiyonlar arasında tek fark, koleksiyon tanımlarken başlangıç değeri zorunda değildir.
+
+//------------------------28.09-------------------------
