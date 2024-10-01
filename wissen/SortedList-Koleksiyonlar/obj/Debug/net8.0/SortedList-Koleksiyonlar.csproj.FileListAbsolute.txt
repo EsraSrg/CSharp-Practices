@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\bin\Debug\net8.0\SortedList-Koleksiyonlar.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\bin\Debug\net8.0\SortedList-Koleksiyonlar.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\bin\Debug\net8.0\SortedList-Koleksiyonlar.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\bin\Debug\net8.0\SortedList-Koleksiyonlar.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\bin\Debug\net8.0\SortedList-Koleksiyonlar.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\SortedList-Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\SortedList-Koleksiyonlar.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\SortedList-Koleksiyonlar.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\SortedList-Koleksiyonlar.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\SortedList-Koleksiyonlar.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\SortedList-Koleksiyonlar.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\refint\SortedList-Koleksiyonlar.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\SortedList-Koleksiyonlar.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\SortedList-Koleksiyonlar.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\SortedList-Koleksiyonlar\obj\Debug\net8.0\ref\SortedList-Koleksiyonlar.dll

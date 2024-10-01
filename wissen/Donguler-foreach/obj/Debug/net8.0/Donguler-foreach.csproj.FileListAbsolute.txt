@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\bin\Debug\net8.0\Donguler-foreach.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\bin\Debug\net8.0\Donguler-foreach.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\bin\Debug\net8.0\Donguler-foreach.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\bin\Debug\net8.0\Donguler-foreach.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\bin\Debug\net8.0\Donguler-foreach.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\Donguler-foreach.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\Donguler-foreach.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\Donguler-foreach.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\Donguler-foreach.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\Donguler-foreach.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\Donguler-foreach.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\refint\Donguler-foreach.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\Donguler-foreach.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\Donguler-foreach.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\wissen\Donguler-foreach\obj\Debug\net8.0\ref\Donguler-foreach.dll
