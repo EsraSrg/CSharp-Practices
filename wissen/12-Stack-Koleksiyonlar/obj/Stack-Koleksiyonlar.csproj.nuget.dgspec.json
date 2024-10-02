@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Stack-Koleksiyonlar\\Stack-Koleksiyonlar.csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\12-Stack-Koleksiyonlar\\Stack-Koleksiyonlar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Stack-Koleksiyonlar\\Stack-Koleksiyonlar.csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\12-Stack-Koleksiyonlar\\Stack-Koleksiyonlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Stack-Koleksiyonlar\\Stack-Koleksiyonlar.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\12-Stack-Koleksiyonlar\\Stack-Koleksiyonlar.csproj",
         "projectName": "Stack-Koleksiyonlar",
-        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Stack-Koleksiyonlar\\Stack-Koleksiyonlar.csproj",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\12-Stack-Koleksiyonlar\\Stack-Koleksiyonlar.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\Stack-Koleksiyonlar\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\12-Stack-Koleksiyonlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",

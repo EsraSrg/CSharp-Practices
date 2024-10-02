@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\ArrayList-\\ArrayList-.csproj",
+      "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\13-ArrayList\\ArrayList-.csproj",
       "projectName": "ArrayList-",
-      "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\ArrayList-\\ArrayList-.csproj",
+      "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\13-ArrayList\\ArrayList-.csproj",
       "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\ArrayList-\\obj\\",
+      "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\13-ArrayList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",
