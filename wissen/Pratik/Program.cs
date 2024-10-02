@@ -8,7 +8,7 @@
 
 //         if(i==0 && j==0){
 
-//             Console.Write("X");
+//        Console.Write("X");
 //             i++;
 //             Console.WriteLine();
 //         }
