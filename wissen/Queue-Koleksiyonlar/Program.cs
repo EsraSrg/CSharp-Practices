@@ -1,4 +1,6 @@
-﻿//Queue Dizisi : İçerisinde tutulan değerlerin object olarak tutulduğu bir dizidir.
+﻿using System.Collections;
+
+//Queue Dizisi : İçerisinde tutulan değerlerin object olarak tutulduğu bir dizidir.
 // Queue kuyruk mantığında çalışır. (Akbil,Pide,Otobüs,Araba yıkama kuyruğu)
 Queue queue = new Queue();
 
