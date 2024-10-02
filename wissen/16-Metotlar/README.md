@@ -2,11 +2,6 @@
 
 Metotlar, iş yapan küçük program parçalarıdır. İçlerine aldıkları değerler ve size geriye döndürdükleri değerler ile birlikte çalışır.
 
-## Gerçek Hayat ve Yazılım Problemleri
-
-Gerçek hayatta problemler ile karşılaştığımızda, onları çözüm yoluna gideriz. Genelde büyük problemler karşımıza çıktığında, büyük bir problem ile uğraşmak oldukça zordur. 
-
-Bu tarz durumlarda, küçük bir problemi küçük parçalar haline bölüp çözmeye çalışmak önerilir. Yazılım tarafındaki büyük boyuttaki işler gerçek hayattaki probleme benzer. Eğer bu tip işleri o boyutuyla çözmeye çalışırsak, genelde çok karmaşık çözümlerle karşılaşırız.
 
 Problemi ufak parçalara ayırmak yazılım dünyasında, metotlara denk gelir. Metotlar, yukarıda da belirttiğimiz gibi ufak kod parçacıklarıdır. Her bir problem çözümünü ufak metotlara ayırarak, problem çözüm süreci boyunca başarılı olunur.
 
@@ -32,11 +27,6 @@ Bir metodun hangi katmandan ya da nereden erişilebileceğini belirler. Erişim 
 - **Protected Internal**
 - **Internal**
 
-Yukarıdaki erişim belirteçlerden şimdilik sadece `public` olanı kullanacağız; diğerlerine daha sonra değineceğiz.
-
-### Static veya Static Olmama
-
-Metotlar için en önemli kavramlardan biridir. Bu belirteçten şimdilik sadece `static` olanı kullanacağız. Static olmama durumu daha sonra açıklanacaktır.
 
 ### Geri Dönüş Tipi
 
@@ -61,6 +51,6 @@ Bir metot 1 veya birden çok parametre alabilir. Parametre sayısının bir sın
 
 ## Bazı Kurallar
 
-- Metot yazarken, satır sayısına dikkat edilmelidir. Bu bir yazılım görgü kuralıdır; 30-34 satır kodu geçmemelidir.
+- Metot yazarken, satır sayısına dikkat edilmelidir. Bu bir yazılım görgü kuralıdır; 30-40 satır kodu geçmemelidir.
 - Aynı şekilde metot parametrelerinde de bir genel geçer kural vardır. Metot parametre sayısı 4'ü geçerse buraya bir önlem alınması gerektiğini söyler.
 
