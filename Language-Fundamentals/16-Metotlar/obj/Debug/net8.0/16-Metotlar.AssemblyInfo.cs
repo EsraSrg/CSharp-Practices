@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16-Metotlar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b5d68b63b3801be329829ec92bb73112a926df8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b74db4f11aa67087285ac72428cb97772c0d056")]
 [assembly: System.Reflection.AssemblyProductAttribute("16-Metotlar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16-Metotlar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

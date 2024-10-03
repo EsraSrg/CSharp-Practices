@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\16-Metotlar.csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\16-Metotlar.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\16-Metotlar.csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\16-Metotlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\16-Metotlar.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\16-Metotlar.csproj",
         "projectName": "16-Metotlar",
-        "projectPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\16-Metotlar.csproj",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\16-Metotlar.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\wissen\\16-Metotlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",
