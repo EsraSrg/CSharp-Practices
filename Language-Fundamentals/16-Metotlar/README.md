@@ -21,11 +21,11 @@ erişim belirteci + static/yada static olmama + geri dönüş tipi/yada değer d
 
 Bir metodun hangi katmandan ya da nereden erişilebileceğini belirler. Erişim belirteçleri şunlardır:
 
-- **Public**
-- **Private**
-- **Protected**
-- **Protected Internal**
-- **Internal**
+- **Public** : her katmandan erisilebilir.
+- **Private** : sadece kendi katmanından erisilebilir, diger tüm yerlere erisimi kapalıdır.
+- **Protected** : kalıtım hiyerarsisi olan katmanlardan erisilebilir, diger katmanlara kapalıdır.
+- **Protected Internal** : ya kalıtım hiyerarsisi ya da dış bir paket tarafından erisilebilir.
+- **Internal** : sadece dış bir paket tarafından erisilebilir.
 
 
 ### Geri Dönüş Tipi
@@ -54,3 +54,8 @@ Bir metot 1 veya birden çok parametre alabilir. Parametre sayısının bir sın
 - Metot yazarken, satır sayısına dikkat edilmelidir. Bu bir yazılım görgü kuralıdır; 30-40 satır kodu geçmemelidir.
 - Aynı şekilde metot parametrelerinde de bir genel geçer kural vardır. Metot parametre sayısı 4'ü geçerse buraya bir önlem alınması gerektiğini söyler.
 
+## Metotların Faydaları
+
+- Kod tekrarı önleniyor.Buna bağlı olarak hatalar önleniyor.
+- Bakım kolaylığı sağlanır. Bir feature ekleneceğinde degisiklik kolayca yapılır.
+- Çok tekrar edilen kod bloklarını metot haline getirmeliyiz.
