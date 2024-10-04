@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\16-Metotlar\\16-Metotlar.csproj": {}
+    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\lottery\\lottery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\16-Metotlar\\16-Metotlar.csproj": {
+    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\lottery\\lottery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\16-Metotlar\\16-Metotlar.csproj",
-        "projectName": "16-Metotlar",
-        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\16-Metotlar\\16-Metotlar.csproj",
+        "projectUniqueName": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\lottery\\lottery.csproj",
+        "projectName": "lottery",
+        "projectPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\lottery\\lottery.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\16-Metotlar\\obj\\",
+        "outputPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\lottery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",

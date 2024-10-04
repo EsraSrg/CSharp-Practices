@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\bin\Debug\net8.0\lottery.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\bin\Debug\net8.0\lottery.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\bin\Debug\net8.0\lottery.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\bin\Debug\net8.0\lottery.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\bin\Debug\net8.0\lottery.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\lottery.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\lottery.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\lottery.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\lottery.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\lottery.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\lottery.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\refint\lottery.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\lottery.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\lottery.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\lottery\obj\Debug\net8.0\ref\lottery.dll

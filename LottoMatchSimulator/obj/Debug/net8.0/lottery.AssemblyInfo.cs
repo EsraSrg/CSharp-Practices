@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("16-Metotlar")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("lottery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ae78d9fd3cbe184a232f45754e5b8c018ac02f9")]
-[assembly: System.Reflection.AssemblyProductAttribute("16-Metotlar")]
-[assembly: System.Reflection.AssemblyTitleAttribute("16-Metotlar")]
+[assembly: System.Reflection.AssemblyProductAttribute("lottery")]
+[assembly: System.Reflection.AssemblyTitleAttribute("lottery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
