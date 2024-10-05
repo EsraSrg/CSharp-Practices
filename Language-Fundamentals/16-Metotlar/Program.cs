@@ -94,9 +94,90 @@ bool isOk=false;
  }
  else{
     System.Console.WriteLine("Login failed..");
+     isOk=false;
  }
 
  
  return isOk;
+    //  //v2
+//  return userName=="root" && password=="0101";
 
 }
+// System.Console.WriteLine("username:");
+// string userName=Console.ReadLine();
+
+// System.Console.WriteLine("password:");
+// string password=Console.ReadLine(); 
+
+// Login(userName,password);
+
+// bir metoda, array parametre alabilirsin
+// aynı şekilde dizi de geri dönebilirsin
+static string[] UpperFirstCase(ArrayList liste){
+
+    // string dizisi alıp, bu dizinin içerisindeki değerlerin
+    // baş harflerini büyük yapıp, metotdan geriye dönelim
+    string[] resultArray = new string[liste.Count];
+    int i =0;
+    foreach (string s in liste){
+
+           string value = s.ToString();
+           string firstCase= value.Substring(0,1);
+           string lastCases = value.Substring(1,value.Length-1);
+          resultArray[i]=firstCase.ToUpper()+lastCases;
+          i++;
+          
+    }
+    return resultArray;
+
+    
+
+}
+
+var arrayList = new ArrayList();
+arrayList.Add("wissen");
+arrayList.Add("besiktaş");
+arrayList.Add("istanbul");
+foreach (string item in UpperFirstCase(arrayList)){
+
+    Console.WriteLine(item);
+}
+
+
+
+// Örnek 10 : 
+// kendi baş harf büyük metodumuzu yazalım
+// parametre olarak bir string alan ve girmiş olduğumuz string'ini baş harfini büyüten bir metot yazınız
+
+static void HarfiBuyut(string value){
+
+    string ters =  value[0].ToString().ToUpper();
+     for (int i = 1;i<value.Length;i++){
+        ters+=value[i].ToString();
+     }
+
+     Console.WriteLine(ters);
+}
+
+
+
+static void mySubstring( string value, int Startİndex, int length){
+
+
+string text="";
+
+    for(int i=Startİndex;i<Startİndex+length;i++){
+
+      text+= value[i];
+    }
+     
+  Console.WriteLine(text);
+
+}
+Console.WriteLine("enter text:");
+string text=Console.ReadLine(); 
+System.Console.WriteLine("start index:");
+int start=int.Parse(Console.ReadLine());
+System.Console.WriteLine("length:");  
+int lngth=int.Parse(Console.ReadLine());
+mySubstring(text,start,lngth);
