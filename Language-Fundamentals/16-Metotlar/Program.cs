@@ -181,3 +181,108 @@ int start=int.Parse(Console.ReadLine());
 System.Console.WriteLine("length:");  
 int lngth=int.Parse(Console.ReadLine());
 mySubstring(text,start,lngth);
+
+// tek çift kontrolü yapsin
+
+static void TekMi(int sayi){
+ bool tekmi=false;  
+    if(sayi%2==0){
+        System.Console.WriteLine("sayı çift");
+        tekmi=false;
+    }
+    else if(sayi%2==1){
+        Console.WriteLine("sayı tek");
+        tekmi=true;
+    }    
+
+    Console.WriteLine(tekmi);
+
+
+}
+
+/*
+System.Console.WriteLine("sayi girin:");
+int sayi=int.Parse(Console.ReadLine());
+TekMi(sayi);
+
+*/
+
+// dizi sıralama örnegi
+//8 4 6 7 1 2
+static void mySort(int [] array){
+
+
+
+  for (int i = 0; i < array.Length- 1; i++)
+        {
+            for (int j = 0; j < array.Length-i- 1; j++)
+            {
+                if (array[j] > array[j + 1])
+                {
+                    
+                    int yer = array[j];
+                    array[j] = array[j + 1];
+                    array[j + 1] = yer;
+                }
+            }
+        }
+
+        
+        Console.WriteLine("Sıralanmış dizi:");
+        for (int i = 0; i < array.Length; i++)
+        {
+            Console.Write(array[i] + "-");
+        }
+
+
+}
+
+
+
+int [] newArray={8,4,6,7,1,2};
+mySort(newArray);
+
+
+
+// username kontrolü
+static void PasswordGenerator(ArrayList userList){
+
+Random rnd=new Random();
+
+for(int i = 0;i<userList.Count;i++){
+
+    int num=rnd.Next(1,300);
+    char karakter=(char)rnd.Next(0,200);
+    System.Console.WriteLine(" şifreniz:"+userList[i]+num+karakter);
+}   
+
+}
+
+ArrayList arraylist=new ArrayList();    
+arraylist.Add("Admin");
+arraylist.Add("Deniz");
+PasswordGenerator(arraylist);
+
+
+static void UserLogin(SortedList liste ,string username, string password){
+
+    foreach(DictionaryEntry item in liste){
+
+        if(item.Key.ToString()==username && item.Value.ToString()==password){
+            Console.WriteLine("giriş basarili");
+            break;
+        }
+        else{
+            Console.WriteLine("giris basarisiz..");
+        }
+
+    }
+}   
+
+
+SortedList liste=new SortedList();
+liste.Add("wissen","1818");
+liste.Add("root","1010");
+liste.Add("esra","1618");
+UserLogin(liste,"esra","1618");
+
