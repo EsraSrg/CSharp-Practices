@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\GuessTheNumberGame\\GuessTheNumberGame.csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\CountLetters\\CountLetters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\GuessTheNumberGame\\GuessTheNumberGame.csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\CountLetters\\CountLetters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\GuessTheNumberGame\\GuessTheNumberGame.csproj",
-        "projectName": "GuessTheNumberGame",
-        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\GuessTheNumberGame\\GuessTheNumberGame.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\CountLetters\\CountLetters.csproj",
+        "projectName": "CountLetters",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\CountLetters\\CountLetters.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\GuessTheNumberGame\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\CountLetters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",

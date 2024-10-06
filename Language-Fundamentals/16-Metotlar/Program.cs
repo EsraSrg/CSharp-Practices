@@ -1,106 +1,117 @@
 ﻿
+using System.Collections;
 //parametre alan ve geriye deger döndüren bir metot yazalım
 
 // çok katmanlı projelerde metodu hızlıca görüntülemek için go to definition kullanabilirsin.
 
 System.Console.WriteLine(ReverseString("wissen besiktas"));
-string ters=ReverseString("metin");
+string ters = ReverseString("metin");
 System.Console.WriteLine(ters);
 // metot yazıldıgında bellekte yer kaplamaz , ancak metot çağırıldığında bellekte bir miktar alan işgal eder.
 //içerisinde kullanılan degiskenlere bağlı olarak alan isgal eder.
 
-System.Console.WriteLine(Sum(3,4));
+System.Console.WriteLine(Sum(3, 4));
 System.Console.WriteLine(CircleArea(2));
-System.Console.WriteLine(RandomNum(1,49));
+System.Console.WriteLine(RandomNum(1, 49));
 System.Console.WriteLine(PlaceValuePı(1));
 System.Console.WriteLine(CharToInt('A'));
-System.Console.WriteLine( HowManyDays(2020));
+System.Console.WriteLine(HowManyDays(2020));
 
-System.Console.WriteLine(Login("root","0101"));
+System.Console.WriteLine(Login("root", "0101"));
 
-static string ReverseString(string deger){
+static string ReverseString(string deger)
+{
 
     //parametre olarak aldıgı degeri ters çevirip geri donduren bir metot yazalım.
-    string ters="";
-    for (int i = deger.Length - 1; i >= 0 ; i--)
+    string ters = "";
+    for (int i = deger.Length - 1; i >= 0; i--)
     {
-        ters+=deger[i];
+        ters += deger[i];
     }
-// geriye deger donduren metotlarda return ifadesi kullanılır..
+    // geriye deger donduren metotlarda return ifadesi kullanılır..
     return ters;
 
 }
 
-static int Sum(int sayi1, int sayi2){
+static int Sum(int sayi1, int sayi2)
+{
 
-    int toplam=sayi1+sayi2;
+    int toplam = sayi1 + sayi2;
 
     return toplam;
 }
 
-static double CircleArea(int yaricap){
+static double CircleArea(int yaricap)
+{
 
-    double sonuc=Math.PI*Math.Pow(yaricap,2);
+    double sonuc = Math.PI * Math.Pow(yaricap, 2);
 
     return sonuc;
 }
 
-static int RandomNum(int sayi1, int sayi2){
+static int RandomNum(int sayi1, int sayi2)
+{
 
-    Random rnd=new Random();
-   
-   int rndSayi=rnd.Next(sayi1,sayi2);
+    Random rnd = new Random();
 
-   return rndSayi;
+    int rndSayi = rnd.Next(sayi1, sayi2);
+
+    return rndSayi;
 }
 
 
 
-static string PlaceValuePı(int index){
+static string PlaceValuePı(int index)
+{
 
-return Math.PI.ToString().Substring(index,1);
+    return Math.PI.ToString().Substring(index, 1);
 
 
 }
 
-static int CharToInt(char karakter){
+static int CharToInt(char karakter)
+{
 
-    int sayi=(int)karakter;
+    int sayi = (int)karakter;
 
     return sayi;
 }
 
-static int HowManyDays(int yil){
+static int HowManyDays(int yil)
+{
 
-    DateTime baslangic=new DateTime(yil,1,1);
-    DateTime bugun= DateTime.Now;
+    DateTime baslangic = new DateTime(yil, 1, 1);
+    DateTime bugun = DateTime.Now;
 
-    TimeSpan fark= bugun- baslangic;
+    TimeSpan fark = bugun - baslangic;
 
     return (int)fark.TotalDays; // sadece gün sayısını aldım.
-    
+
 }
 
 
-static bool Login(string userName, string password){
+static bool Login(string userName, string password)
+{
 
-bool isOk=false;
+    bool isOk = false;
 
- if(userName=="root" && password=="0101"){
+    if (userName == "root" && password == "0101")
+    {
 
-    System.Console.WriteLine("Welcome...{0}",userName);
-    
-    isOk=true;
- }
- else{
-    System.Console.WriteLine("Login failed..");
-     isOk=false;
- }
+        System.Console.WriteLine("Welcome...{0}", userName);
 
- 
- return isOk;
+        isOk = true;
+    }
+    else
+    {
+        System.Console.WriteLine("Login failed..");
+        isOk = false;
+    }
+
+
+    return isOk;
     //  //v2
-//  return userName=="root" && password=="0101";
+    //  return userName=="root" && password=="0101";
 
 }
 // System.Console.WriteLine("username:");
@@ -113,24 +124,26 @@ bool isOk=false;
 
 // bir metoda, array parametre alabilirsin
 // aynı şekilde dizi de geri dönebilirsin
-static string[] UpperFirstCase(ArrayList liste){
+static string[] UpperFirstCase(ArrayList liste)
+{
 
     // string dizisi alıp, bu dizinin içerisindeki değerlerin
     // baş harflerini büyük yapıp, metotdan geriye dönelim
     string[] resultArray = new string[liste.Count];
-    int i =0;
-    foreach (string s in liste){
+    int i = 0;
+    foreach (string s in liste)
+    {
 
-           string value = s.ToString();
-           string firstCase= value.Substring(0,1);
-           string lastCases = value.Substring(1,value.Length-1);
-          resultArray[i]=firstCase.ToUpper()+lastCases;
-          i++;
-          
+        string value = s.ToString();
+        string firstCase = value.Substring(0, 1);
+        string lastCases = value.Substring(1, value.Length - 1);
+        resultArray[i] = firstCase.ToUpper() + lastCases;
+        i++;
+
     }
     return resultArray;
 
-    
+
 
 }
 
@@ -138,7 +151,8 @@ var arrayList = new ArrayList();
 arrayList.Add("wissen");
 arrayList.Add("besiktaş");
 arrayList.Add("istanbul");
-foreach (string item in UpperFirstCase(arrayList)){
+foreach (string item in UpperFirstCase(arrayList))
+{
 
     Console.WriteLine(item);
 }
@@ -149,51 +163,58 @@ foreach (string item in UpperFirstCase(arrayList)){
 // kendi baş harf büyük metodumuzu yazalım
 // parametre olarak bir string alan ve girmiş olduğumuz string'ini baş harfini büyüten bir metot yazınız
 
-static void HarfiBuyut(string value){
+static void HarfiBuyut(string value)
+{
 
-    string ters =  value[0].ToString().ToUpper();
-     for (int i = 1;i<value.Length;i++){
-        ters+=value[i].ToString();
-     }
+    string ters = value[0].ToString().ToUpper();
+    for (int i = 1; i < value.Length; i++)
+    {
+        ters += value[i].ToString();
+    }
 
-     Console.WriteLine(ters);
+    Console.WriteLine(ters);
 }
 
 
 
-static void mySubstring( string value, int Startİndex, int length){
+static void mySubstring(string value, int Startİndex, int length)
+{
 
 
-string text="";
+    string text = "";
 
-    for(int i=Startİndex;i<Startİndex+length;i++){
+    for (int i = Startİndex; i < Startİndex + length; i++)
+    {
 
-      text+= value[i];
+        text += value[i];
     }
-     
-  Console.WriteLine(text);
+
+    Console.WriteLine(text);
 
 }
 Console.WriteLine("enter text:");
-string text=Console.ReadLine(); 
+string text = Console.ReadLine();
 System.Console.WriteLine("start index:");
-int start=int.Parse(Console.ReadLine());
-System.Console.WriteLine("length:");  
-int lngth=int.Parse(Console.ReadLine());
-mySubstring(text,start,lngth);
+int start = int.Parse(Console.ReadLine());
+System.Console.WriteLine("length:");
+int lngth = int.Parse(Console.ReadLine());
+mySubstring(text, start, lngth);
 
 // tek çift kontrolü yapsin
 
-static void TekMi(int sayi){
- bool tekmi=false;  
-    if(sayi%2==0){
+static void TekMi(int sayi)
+{
+    bool tekmi = false;
+    if (sayi % 2 == 0)
+    {
         System.Console.WriteLine("sayı çift");
-        tekmi=false;
+        tekmi = false;
     }
-    else if(sayi%2==1){
+    else if (sayi % 2 == 1)
+    {
         Console.WriteLine("sayı tek");
-        tekmi=true;
-    }    
+        tekmi = true;
+    }
 
     Console.WriteLine(tekmi);
 
@@ -209,80 +230,132 @@ TekMi(sayi);
 
 // dizi sıralama örnegi
 //8 4 6 7 1 2
-static void mySort(int [] array){
+static void mySort(int[] array)
+{
 
 
 
-  for (int i = 0; i < array.Length- 1; i++)
+    for (int i = 0; i < array.Length - 1; i++)
+    {
+        for (int j = 0; j < array.Length - i - 1; j++)
         {
-            for (int j = 0; j < array.Length-i- 1; j++)
+            if (array[j] > array[j + 1])
             {
-                if (array[j] > array[j + 1])
-                {
-                    
-                    int yer = array[j];
-                    array[j] = array[j + 1];
-                    array[j + 1] = yer;
-                }
+
+                int yer = array[j];
+                array[j] = array[j + 1];
+                array[j + 1] = yer;
             }
         }
+    }
 
-        
-        Console.WriteLine("Sıralanmış dizi:");
-        for (int i = 0; i < array.Length; i++)
-        {
-            Console.Write(array[i] + "-");
-        }
+
+    Console.WriteLine("Sorted Array:");
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write(array[i] + "-");
+    }
 
 
 }
 
 
 
-int [] newArray={8,4,6,7,1,2};
+int[] newArray = { 8, 4, 6, 7, 1, 2 };
 mySort(newArray);
 
 
 
 // username kontrolü
-static void PasswordGenerator(ArrayList userList){
+static void PasswordGenerator(ArrayList userList)
+{
 
-Random rnd=new Random();
+    Random rnd = new Random();
 
-for(int i = 0;i<userList.Count;i++){
+    for (int i = 0; i < userList.Count; i++)
+    {
 
-    int num=rnd.Next(1,300);
-    char karakter=(char)rnd.Next(0,200);
-    System.Console.WriteLine(" şifreniz:"+userList[i]+num+karakter);
-}   
+        int num = rnd.Next(1, 300);
+        char karakter = (char)rnd.Next(0, 200);
+        System.Console.WriteLine(" şifreniz:" + userList[i] + num + karakter);
+    }
 
 }
 
-ArrayList arraylist=new ArrayList();    
+ArrayList arraylist = new ArrayList();
 arraylist.Add("Admin");
 arraylist.Add("Deniz");
 PasswordGenerator(arraylist);
 
 
-static void UserLogin(SortedList liste ,string username, string password){
+static void UserLogin(SortedList liste, string username, string password)
+{
 
-    foreach(DictionaryEntry item in liste){
+    foreach (DictionaryEntry item in liste)
+    { //sortedlist key value çifti oldugundan DictionaryEntry ile dönülür.
 
-        if(item.Key.ToString()==username && item.Value.ToString()==password){
+        if (item.Key.ToString() == username && item.Value.ToString() == password)
+        {
             Console.WriteLine("giriş basarili");
             break;
         }
-        else{
+        else
+        {
             Console.WriteLine("giris basarisiz..");
         }
 
     }
-}   
+}
 
 
-SortedList liste=new SortedList();
-liste.Add("wissen","1818");
-liste.Add("root","1010");
-liste.Add("esra","1618");
-UserLogin(liste,"esra","1618");
+SortedList liste = new SortedList();
+liste.Add("wissen", "1818");
+liste.Add("root", "1010");
+liste.Add("esra", "1618");
+UserLogin(liste, "esra", "1618");
 
+static void KelimeSay(string cumle)
+{
+
+    // bu işi bir metot ile yapalım
+    var kelimeDizi = cumle.Split(' ');
+    Console.WriteLine("Kelime sayısı : {0}", kelimeDizi.Length);
+}
+//Örnek :  Tekrar eden harfleri gösteren uygulama
+
+
+
+static void CountLetters(string text)
+{
+
+    SortedList list = new SortedList();
+    for (int i = 0; i < text.Length; i++)
+    {
+
+        string letter = text[i].ToString();
+        if (list.ContainsKey(letter)) //harf var mı koleksiyonun içinde?
+        {
+
+           
+// key degerine göre value getirmemiz lazım
+            int value = (int)list[letter];
+            value++;
+            list[letter] = value;
+
+        }
+        else
+        {
+            list.Add(letter.ToString(), 1);
+        }
+    }
+
+    foreach (DictionaryEntry item in list)
+    {
+        Console.WriteLine("{0} > {1}", item.Key, item.Value);
+
+    }
+
+}
+
+
+CountLetters("ccccsshhharpppp");

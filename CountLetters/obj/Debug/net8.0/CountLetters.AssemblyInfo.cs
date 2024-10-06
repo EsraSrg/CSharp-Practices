@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Bubble sort")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CountLetters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5f15f10787e93d7fba86d5eb706db9be12955d5")]
-[assembly: System.Reflection.AssemblyProductAttribute("Bubble sort")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Bubble sort")]
+[assembly: System.Reflection.AssemblyProductAttribute("CountLetters")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CountLetters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
