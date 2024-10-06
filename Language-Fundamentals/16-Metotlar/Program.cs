@@ -1,5 +1,7 @@
 ﻿
 using System.Collections;
+using System.Globalization;
+/*
 //parametre alan ve geriye deger döndüren bir metot yazalım
 
 // çok katmanlı projelerde metodu hızlıca görüntülemek için go to definition kullanabilirsin.
@@ -227,7 +229,7 @@ int sayi=int.Parse(Console.ReadLine());
 TekMi(sayi);
 
 */
-
+/*
 // dizi sıralama örnegi
 //8 4 6 7 1 2
 static void mySort(int[] array)
@@ -359,3 +361,83 @@ static void CountLetters(string text)
 
 
 CountLetters("ccccsshhharpppp");
+
+*/
+
+//Find the Factorial of a Number 
+//Rsum of array(Arrays)
+//Power of Two (Math)
+
+
+Factorial(3);
+Console.WriteLine(PowerOfTwo(254));
+
+
+SortedList list = new SortedList();
+list.Add(1, 3);
+list.Add(2, 4);
+list.Add(3, 3);
+list.Add(4, 1);
+list.Add(5, 2);
+
+Console.WriteLine(SumOfSortedList(list));
+
+
+
+
+static void Factorial(int num)
+{
+
+    int number = 1;
+    for (int i = 1; i <= num; i++)
+    {
+
+        number *= i;
+
+    }
+
+    System.Console.WriteLine("{0}!={1}", num, number);
+}
+
+// is num equals 2^i 
+
+static bool PowerOfTwo(int num)
+{
+
+    bool isOk = false;
+
+    for (int i = 1; i <= num; i++)
+    {
+
+        if (num == (int)Math.Pow(2, i))
+        {
+
+            isOk = true;
+        }
+
+        if (num < (int)Math.Pow(2, i))
+        {
+            break;
+        }
+
+    }
+
+    return isOk;
+}
+
+
+static int SumOfSortedList(SortedList list){
+
+ int sum=0;
+
+foreach (DictionaryEntry item in list)
+{
+
+    sum += (int)item.Value;
+
+}
+return sum;
+
+ }
+
+//sortedlist içine Arraylist ekleme

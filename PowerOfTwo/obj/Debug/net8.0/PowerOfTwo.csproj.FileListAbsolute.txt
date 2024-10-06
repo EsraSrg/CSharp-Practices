@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\bin\Debug\net8.0\PowerOfTwo.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\bin\Debug\net8.0\PowerOfTwo.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\bin\Debug\net8.0\PowerOfTwo.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\bin\Debug\net8.0\PowerOfTwo.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\bin\Debug\net8.0\PowerOfTwo.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\PowerOfTwo.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\PowerOfTwo.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\PowerOfTwo.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\PowerOfTwo.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\PowerOfTwo.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\refint\PowerOfTwo.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\PowerOfTwo.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\PowerOfTwo.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\PowerOfTwo\obj\Debug\net8.0\ref\PowerOfTwo.dll
