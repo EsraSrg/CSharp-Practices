@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\metotlar-ref-ve-out\\metotlar-ref-ve-out.csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\19-metotlar-ref-ve-out\\metotlar-ref-ve-out.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\metotlar-ref-ve-out\\metotlar-ref-ve-out.csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\19-metotlar-ref-ve-out\\metotlar-ref-ve-out.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\metotlar-ref-ve-out\\metotlar-ref-ve-out.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\19-metotlar-ref-ve-out\\metotlar-ref-ve-out.csproj",
         "projectName": "metotlar-ref-ve-out",
-        "projectPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\metotlar-ref-ve-out\\metotlar-ref-ve-out.csproj",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\19-metotlar-ref-ve-out\\metotlar-ref-ve-out.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\metotlar-ref-ve-out\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\19-metotlar-ref-ve-out\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",
