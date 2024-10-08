@@ -51,3 +51,37 @@ static void DegerAta(out int a){
 
 
 #endregion
+
+
+
+static bool IsNum(char karakter){
+    
+    return char.IsDigit(karakter);
+}
+
+
+static bool MyTryParse(string value, out int result){
+   
+   
+    bool isOk=false;
+     result=0;
+     string num="";
+
+ for(int i=0;i<value.Length;i++){
+
+    if(IsNum(value[i])){
+
+        isOk=true;
+        num+=value[i];
+        result=Convert.ToInt32(num);
+    }
+
+ }
+
+return isOk;
+
+}
+
+int s;
+Console.WriteLine(MyTryParse("20",out s));
+System.Console.WriteLine(s);
