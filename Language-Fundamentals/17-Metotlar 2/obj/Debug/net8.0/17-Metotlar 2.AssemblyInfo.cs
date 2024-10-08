@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Palindrome")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("17-Metotlar 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de1d79c376b6839d6115ad3b50e6c38f3a69f5da")]
-[assembly: System.Reflection.AssemblyProductAttribute("Palindrome")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Palindrome")]
+[assembly: System.Reflection.AssemblyProductAttribute("17-Metotlar 2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("17-Metotlar 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

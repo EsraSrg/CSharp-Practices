@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\17-Metotlar 2\\17-Metotlar 2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\17-Metotlar 2\\17-Metotlar 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj",
-        "projectName": "Palindrome",
-        "projectPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\Palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\17-Metotlar 2\\17-Metotlar 2.csproj",
+        "projectName": "17-Metotlar 2",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\17-Metotlar 2\\17-Metotlar 2.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Palindrome\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\17-Metotlar 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",
