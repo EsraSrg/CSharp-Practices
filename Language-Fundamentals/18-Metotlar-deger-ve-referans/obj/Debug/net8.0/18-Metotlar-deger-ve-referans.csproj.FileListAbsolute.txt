@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\bin\Debug\net8.0\18-Metotlar-deger-ve-referans.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\bin\Debug\net8.0\18-Metotlar-deger-ve-referans.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\bin\Debug\net8.0\18-Metotlar-deger-ve-referans.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\bin\Debug\net8.0\18-Metotlar-deger-ve-referans.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\bin\Debug\net8.0\18-Metotlar-deger-ve-referans.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\18-Metotlar-deger-ve-referans.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\18-Metotlar-deger-ve-referans.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\18-Metotlar-deger-ve-referans.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\18-Metotlar-deger-ve-referans.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\18-Metotlar-deger-ve-referans.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\18-Metotlar-deger-ve-referans.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\refint\18-Metotlar-deger-ve-referans.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\18-Metotlar-deger-ve-referans.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\18-Metotlar-deger-ve-referans.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\18-Metotlar-deger-ve-referans\obj\Debug\net8.0\ref\18-Metotlar-deger-ve-referans.dll
