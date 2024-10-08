@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\bin\Debug\net8.0\metotlar-ref-ve-out.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\bin\Debug\net8.0\metotlar-ref-ve-out.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\bin\Debug\net8.0\metotlar-ref-ve-out.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\bin\Debug\net8.0\metotlar-ref-ve-out.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\bin\Debug\net8.0\metotlar-ref-ve-out.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\metotlar-ref-ve-out.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\metotlar-ref-ve-out.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\metotlar-ref-ve-out.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\metotlar-ref-ve-out.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\metotlar-ref-ve-out.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\metotlar-ref-ve-out.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\refint\metotlar-ref-ve-out.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\metotlar-ref-ve-out.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\metotlar-ref-ve-out.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\metotlar-ref-ve-out\obj\Debug\net8.0\ref\metotlar-ref-ve-out.dll

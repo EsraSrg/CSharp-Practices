@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "metotlar-ref-ve-out/1.0.0": {
+        "runtime": {
+          "metotlar-ref-ve-out.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metotlar-ref-ve-out/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
