@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\bin\Debug\net8.0\20-metotlar-overloading.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\bin\Debug\net8.0\20-metotlar-overloading.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\bin\Debug\net8.0\20-metotlar-overloading.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\bin\Debug\net8.0\20-metotlar-overloading.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\bin\Debug\net8.0\20-metotlar-overloading.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\20-metotlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\20-metotlar-overloading.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\20-metotlar-overloading.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\20-metotlar-overloading.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\20-metotlar-overloading.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\20-metotlar-overloading.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\refint\20-metotlar-overloading.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\20-metotlar-overloading.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\20-metotlar-overloading.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\20-metotlar-overloading\obj\Debug\net8.0\ref\20-metotlar-overloading.dll

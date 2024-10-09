@@ -35,7 +35,7 @@ System.Console.WriteLine(a);
 
 #region int.TryParse()
 int b;
-bool isOk=int.TryParse("10",out b);
+bool isOk = int.TryParse("10", out b);
 // bir stringi inte cevirip cevirmeyecegini kontrol eder. eger cevirirse
 //out ile yukarıdaki baslangıc degeri olmayan b degerine, donusturulmus degeri atayacaktır.
 //dönüştüremezse false döner.
@@ -43,10 +43,11 @@ System.Console.WriteLine(isOk);
 System.Console.WriteLine(b);
 #endregion
 
-static void DegerAta(out int a){
+static void DegerAta(out int a)
+{
 
     //out ile gelen a degiskenine metot icindeki baslangic degeri verildi.
-    a=10;
+    a = 10;
 }
 
 
@@ -54,34 +55,51 @@ static void DegerAta(out int a){
 
 
 
-static bool IsNum(char karakter){
-    
+static bool IsNum(char karakter)
+{
+
     return char.IsDigit(karakter);
 }
 
 
-static bool MyTryParse(string value, out int result){
-   
-   
-    bool isOk=false;
-     result=0;
-     string num="";
+static bool MyTryParse(string value, out int result)
+{
 
- for(int i=0;i<value.Length;i++){
 
-    if(IsNum(value[i])){
+    bool isOk = false;
+    result = 0;
+    string num = "";
 
-        isOk=true;
-        num+=value[i];
-        result=Convert.ToInt32(num);
+    for (int i = 0; i < value.Length; i++)
+    {
+
+        // string içerisinde boşluk karakteri olduğunda, tryparse hata verdi, boşluk karakterlerini 
+        // isWhiteSpace ile kontrol edebilir yada direk Trim yaptıktan sonra parse işlemi gerçekleştirebilirsiniz
+        //char.IsWhiteSpace
+
+        if (IsNum(value[i]))
+        {
+
+            isOk = true;
+            num += value[i];
+            result = Convert.ToInt32(num);
+        }
+
+        else if (IsNum(value[i]) == false)
+        {
+
+            isOk = false;
+            result = 0;
+            break;
+
+        }
+
     }
 
- }
-
-return isOk;
+    return isOk;
 
 }
 
 int s;
-Console.WriteLine(MyTryParse("20",out s));
+Console.WriteLine(MyTryParse("204", out s));
 System.Console.WriteLine(s);
