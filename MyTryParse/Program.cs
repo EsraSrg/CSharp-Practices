@@ -26,6 +26,12 @@ static bool MyTryParse(string value, out int result){
         isOk=true;
         num+=value[i];
         result=Convert.ToInt32(num);
+    } else if (IsNum(value[i])==false){  //if i is not digit "1A23" ,break
+
+        isOk=false;
+        result=0;
+        break;
+        
     }
 
  }
