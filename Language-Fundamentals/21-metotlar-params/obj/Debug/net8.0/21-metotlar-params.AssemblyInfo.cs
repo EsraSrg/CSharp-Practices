@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("20-metotlar-overloading")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("21-metotlar-params")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e00a07cf3847827f49e0038e6aa871abc835796d")]
-[assembly: System.Reflection.AssemblyProductAttribute("20-metotlar-overloading")]
-[assembly: System.Reflection.AssemblyTitleAttribute("20-metotlar-overloading")]
+[assembly: System.Reflection.AssemblyProductAttribute("21-metotlar-params")]
+[assembly: System.Reflection.AssemblyTitleAttribute("21-metotlar-params")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

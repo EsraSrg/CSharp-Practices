@@ -25,15 +25,20 @@ static int Deneme(bool notOk){
 
 // Main : 
 
-// Bu konu, class konusunu gördüğümüzde tekrar konuşulacaktır.
-static int Topla(int a,int b)
+internal class Program
 {
+    private static void Main(string[] args)
+    {
+      
+    }
+      // Bu konu, class konusunu gördüğümüzde tekrar konuşulacaktır.
+        static int Topla(int a, int b)
+        {
 
-    return 1;
+            return 1;
+        }
+        static double Topla(double a, double b)
+        {
+            return 1;
+        }
 }
-static double Topla(double a, double b)
-{
-    return 1;
-}
-
-

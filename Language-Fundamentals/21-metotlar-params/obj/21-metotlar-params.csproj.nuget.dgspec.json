@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\20-metotlar-overloading\\20-metotlar-overloading.csproj": {}
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\21-metotlar-params\\21-metotlar-params.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\20-metotlar-overloading\\20-metotlar-overloading.csproj": {
+    "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\21-metotlar-params\\21-metotlar-params.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\20-metotlar-overloading\\20-metotlar-overloading.csproj",
-        "projectName": "20-metotlar-overloading",
-        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\20-metotlar-overloading\\20-metotlar-overloading.csproj",
+        "projectUniqueName": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\21-metotlar-params\\21-metotlar-params.csproj",
+        "projectName": "21-metotlar-params",
+        "projectPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\21-metotlar-params\\21-metotlar-params.csproj",
         "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\20-metotlar-overloading\\obj\\",
+        "outputPath": "C:\\Users\\Esra\\Desktop\\repos\\CsharpPractice\\Language-Fundamentals\\21-metotlar-params\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esra\\AppData\\Roaming\\NuGet\\NuGet.Config",
