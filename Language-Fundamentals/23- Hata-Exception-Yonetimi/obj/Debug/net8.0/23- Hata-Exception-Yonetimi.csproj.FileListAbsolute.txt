@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\bin\Debug\net8.0\23- Hata-Exception-Yonetimi.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\bin\Debug\net8.0\23- Hata-Exception-Yonetimi.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\bin\Debug\net8.0\23- Hata-Exception-Yonetimi.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\bin\Debug\net8.0\23- Hata-Exception-Yonetimi.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\bin\Debug\net8.0\23- Hata-Exception-Yonetimi.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\23- Hata-Exception-Yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\23- Hata-Exception-Yonetimi.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\23- Hata-Exception-Yonetimi.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\23- Hata-Exception-Yonetimi.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\23- Hata-Exception-Yonetimi.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\23- Hata-Exception-Yonetimi.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\refint\23- Hata-Exception-Yonetimi.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\23- Hata-Exception-Yonetimi.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\23- Hata-Exception-Yonetimi.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\23- Hata-Exception-Yonetimi\obj\Debug\net8.0\ref\23- Hata-Exception-Yonetimi.dll
