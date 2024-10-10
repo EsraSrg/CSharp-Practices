@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\bin\Debug\net8.0\21-metotlar-params.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\bin\Debug\net8.0\21-metotlar-params.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\bin\Debug\net8.0\21-metotlar-params.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\bin\Debug\net8.0\21-metotlar-params.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\bin\Debug\net8.0\21-metotlar-params.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\21-metotlar-params.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\21-metotlar-params.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\21-metotlar-params.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\21-metotlar-params.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\21-metotlar-params.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\21-metotlar-params.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\refint\21-metotlar-params.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\21-metotlar-params.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\21-metotlar-params.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\21-metotlar-params\obj\Debug\net8.0\ref\21-metotlar-params.dll
