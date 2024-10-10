@@ -1,0 +1,15 @@
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\bin\Debug\net8.0\22-metotlar-default-parameters.exe
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\bin\Debug\net8.0\22-metotlar-default-parameters.deps.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\bin\Debug\net8.0\22-metotlar-default-parameters.runtimeconfig.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\bin\Debug\net8.0\22-metotlar-default-parameters.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\bin\Debug\net8.0\22-metotlar-default-parameters.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\22-metotlar-default-parameters.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\22-metotlar-default-parameters.AssemblyInfoInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\22-metotlar-default-parameters.AssemblyInfo.cs
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\22-metotlar-default-parameters.csproj.CoreCompileInputs.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\22-metotlar-default-parameters.sourcelink.json
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\22-metotlar-default-parameters.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\refint\22-metotlar-default-parameters.dll
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\22-metotlar-default-parameters.pdb
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\22-metotlar-default-parameters.genruntimeconfig.cache
+c:\Users\Esra\Desktop\repos\CsharpPractice\Language-Fundamentals\22-metotlar-default-parameters\obj\Debug\net8.0\ref\22-metotlar-default-parameters.dll
